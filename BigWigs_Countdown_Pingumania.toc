@@ -1,0 +1,9 @@
+## Interface: 120007, 50504, 20506, 11508
+
+## Title: BigWigs |cffff7f3f+|r|cffffffffCountdown: Pingumania|r
+## Author: Pingumania
+## Version: @project-version@
+
+## Dependencies: BigWigs
+
+Addon.lua
