@@ -5,5 +5,7 @@
 ## Version: @project-version@
 
 ## Dependencies: BigWigs
+## LoadOnDemand: 1
+## LoadWith: BigWigs
 
 Addon.lua
