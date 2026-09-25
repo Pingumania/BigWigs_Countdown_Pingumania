@@ -1,4 +1,4 @@
-## Interface: 120007, 50504, 20506, 11508
+## Interface: 11508, 16001, 120100
 
 ## Title: BigWigs |cffff7f3f+|r|cffffffffCountdown: Pingumania|r
 ## Author: Pingumania
