@@ -2,6 +2,7 @@
 
 ## Title: BigWigs |cffff7f3f+|r|cffffffffCountdown: Pingumania|r
 ## Author: Pingumania
+## IconTexture: Interface\Icons\inv_misc_pocketwatch_01
 ## Version: @project-version@
 
 ## Dependencies: BigWigs
